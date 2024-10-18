@@ -37,7 +37,7 @@ const TAB_DATA = [
 
 const AboutSection = () => {
   const [tab, setTab] = useState("skills");
-  const [isPending, startTransition] = useTransition();
+  const [ startTransition] = useTransition();
 
   const handleTabChange = (id) => {
     startTransition(() => {
@@ -48,7 +48,7 @@ const AboutSection = () => {
   return (
     <section className="text-white my-10 md:my-10 py-20" id="about">
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
-        <Image src="/images/home-main.svg" width={500} height={500} />
+        <Image src="/images/home-main.svg" width={500} height={500} alt="home" />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl bg-clip-text bg-gradient-to-r  sm:text-2xl lg:text-5xl font-bold text-[#475569] mb-4">
           LET ME <span className="text-white"> INTRODUCE </span> MYSELF
