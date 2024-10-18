@@ -64,7 +64,9 @@ const AboutSection = () => {
               
               <br />
               <br />
-              <b className="text-[#475569]">My field of Interest's are building new &nbsp;</b>
+              {/* <b className="text-[#475569]">My field of Interest's are building new &nbsp;</b> */}
+              <b className="text-[#475569]">My field of Interest&apos;s are building new &nbsp;</b>
+
               
                 Web Technologies and Products   
                 <b className="text-[#475569]"> and also in areas related to{" "}</b>
