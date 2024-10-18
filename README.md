@@ -14,6 +14,18 @@ Install dependencies with npm install
 $ npm install (to install dependencies)
 ```
 
+Set environment variables in .env 
+
+- Supply the following credentials
+
+```
+#  --- .env  ---
+
+RESEND_API_KEY=Your API Key
+FROM_EMAIL=Your Email
+
+```
+
 Run the development server with:
 
 ```
