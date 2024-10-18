@@ -21,8 +21,8 @@ Set environment variables in .env
 ```
 #  --- .env  ---
 
-RESEND_API_KEY=Your API Key
-FROM_EMAIL=Your Email
+RESEND_API_KEY= Your API Key
+FROM_EMAIL= Your Email
 
 ```
 
