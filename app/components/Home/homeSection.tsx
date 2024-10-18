@@ -28,7 +28,7 @@ function homeSection() {
             <br></br>
 
             <div className=" bg-clip-text bg-gradient-to-r text-2xl sm:text-2xl lg:text-4xl py-6">
-                <span className='text-[#475569]'>I'M</span>
+                <span className='text-[#475569]'>I&apos;M </span>
                 <span className=" bg-clip-text bg-gradient-to-r text-2xl sm:text-2xl lg:text-4xl font-extrabold"> KAVYA CHINCHANKAR</span>
               </div>
               <div className="text-white mb-4 text-4xl sm:text-5xl lg:text-5xl lg:leading-normal font-extrabold py-8">
