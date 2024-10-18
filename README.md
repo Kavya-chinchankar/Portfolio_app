@@ -1,7 +1,7 @@
 <H1 align ="center" > PORTFOLIO </h1>
 
 <h5  align ="center"> 
-Calculator application made with Next JS </h5>
+Portfolio application made with Next JS </h5>
 <br/>
 
 ### 🚀 Getting Started
