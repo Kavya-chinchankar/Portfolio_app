@@ -25,3 +25,11 @@ body {
     text-wrap: balance;
   }
 }
+
+.bg-repeat-all {
+  background-image: url('/images/bg-r.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+}
+
