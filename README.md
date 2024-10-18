@@ -38,14 +38,11 @@ Navigate to http://localhost:3000 in your web browser
 
 ##  Screenshots
 
+![image](https://github.com/user-attachments/assets/36cabdec-3aef-4bd7-b816-16ab0b1f80fc)
 
+![image](https://github.com/user-attachments/assets/9a883372-7759-4d56-b0bb-210c3daff985)
 
-
-![image](https://github.com/user-attachments/assets/03a9df6b-7c6c-40b3-b1f8-51a79030b589)
-
-
-
-![image](https://github.com/user-attachments/assets/5b656240-514c-4545-9e08-143b16fbb022)
+![image](https://github.com/user-attachments/assets/71cd64a4-3d46-4660-8140-4e729e7a9c32)
 
 
 ### 📦 Built With
