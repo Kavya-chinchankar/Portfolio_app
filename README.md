@@ -38,8 +38,6 @@ Navigate to http://localhost:3000 in your web browser
 
 ### 📦 Built With
 
-- [nextjs docs] https://beta.nextjs.org/docs
-- [tailwindcss] https://tailwindcss.com/docs/guides/nextjs
 -  Next.js: A React framework for server-side rendering and static site generation.
 - Tailwind CSS: A highly customizable CSS framework.
 - React: A JavaScript library for building user interfaces.
