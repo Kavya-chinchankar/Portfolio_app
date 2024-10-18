@@ -38,8 +38,14 @@ Navigate to http://localhost:3000 in your web browser
 
 ### 📦 Built With
 
-- [nextjs 13 docs] https://beta.nextjs.org/docs
+- [nextjs docs] https://beta.nextjs.org/docs
 - [tailwindcss] https://tailwindcss.com/docs/guides/nextjs
+-  Next.js: A React framework for server-side rendering and static site generation.
+- Tailwind CSS: A highly customizable CSS framework.
+- React: A JavaScript library for building user interfaces.
+- React Icons: A collection of popular icons for React projects.
+- TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
+- Resend: Resend is the email API for developers.
 
 ### GitHub Link
 - https://github.com/Kavya-chinchankar/Calculator_app.git
