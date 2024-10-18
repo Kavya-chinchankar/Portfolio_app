@@ -55,7 +55,7 @@ Navigate to http://localhost:3000 in your web browser
 - Resend: Resend is the email API for developers.
 
 ### GitHub Link
-- https://github.com/Kavya-chinchankar/Calculator_app.git
+- https://github.com/Kavya-chinchankar/Portfolio_app.git
 
   
 
